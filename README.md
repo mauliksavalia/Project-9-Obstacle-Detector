@@ -33,6 +33,7 @@ For UMass 2022 IoT Projects.
 
 Even before installing Micropython you can start wiring the pico, personally I chose to soder the board but this is optional, once you have the pico on the breadboard, you can follow the image below to set up the wiring:
 <img src="https://cdn.discordapp.com/attachments/892140741076353034/1036014548337049710/unknown.png" />
+
 Our project uses two sensors, but just one sensor would work fine as well. on the sensors you can see letts next to the connectors, to which you would connect using the jumper cables.
 	G is the ground connection(38 is what we used)
 	V is the power connection(36)
