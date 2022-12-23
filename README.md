@@ -29,13 +29,14 @@ For UMass 2022 IoT Projects.
 
 # Instructions
 
-## 0. Introduction
+## 0. Wiring your Pico
 
-Hi UMass students! I've wrote some code for you to get your Pico Ws setup with the atPlatform. Big shoutout to @realvarx on GitHub for developing AES CTR and RSA-2048 private key signing on the Pico W. 
-
-Let me know if you have any questions on Discord (Jeremy#7970) or by email (jeremy.tubongbanua@atsign.com) or just on our [discord](https://discord.atsign.com).
-
-Be sure to get the first 3 prerequisites under [Prerequisites](#prerequisites) before you start. The last 2 prerequisites (FTP software and 2 atSigns) can be done later.
+Even before installing Micropython you can start wiring the pico, personally I chose to soder the board but this is optional, once you have the pico on the breadboard, you can follow the image below to set up the wiring:
+<img src="https://cdn.discordapp.com/attachments/892140741076353034/1036014548337049710/unknown.png" />
+Our project uses two sensors, but just one sensor would work fine as well. on the sensors you can see letts next to the connectors, to which you would connect using the jumper cables.
+	G is the ground connection(38 is what we used)
+	V is the power connection(36)
+	S is the data connection(GP27 and GP26)
 
 ## 1. Getting the right Micropython Firmware for your Pico W
 
