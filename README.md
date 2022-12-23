@@ -1,9 +1,7 @@
-<img width=250px src="https://atsign.dev/assets/img/atPlatform_logo_gray.svg?sanitize=true">
+# Project 9: Obstacle Detector using Proximity and Motion Sensor
 
-
-# at_pico_w
-
-For UMass 2022 IoT Projects.
+This is a modified copy of atSign's own README.md, it contained a lot of relevant information so it is reused.
+Also disclaimer this repo only consist of the backend data being sent, my group mates who worked on the front end has their own repo.
 
 # Table of Contents
 
@@ -14,10 +12,7 @@ For UMass 2022 IoT Projects.
   * [1. Getting the right Micropython Firmware for your Pico W](#1-getting-the-right-micropython-firmware-for-your-pico-w)
   * [2. Getting Started - Blinking the LED](#2-getting-started---blinking-the-led)
   * [3. Git Cloning](#3-git-cloning)
-  * [4. Connecting to WiFi](#4-connecting-to-wifi)
-  * [5. Authenticating into your atSign's server](#5-authenticating-into-your-atsigns-server)
-  * [6. Sending data](#6-sending-data)
-  * [7. Receiving data](#7-receiving-data)
+  * [4. Using our project](#4-Using-our-project)
 
 # Prerequisites
 
