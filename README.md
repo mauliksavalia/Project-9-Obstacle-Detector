@@ -1,7 +1,7 @@
 # Project 9: Obstacle Detector using Proximity and Motion Sensor
 
-This is a modified copy of atSign's own README.md, it contained a lot of relevant information so it is reused.
-Also disclaimer this repo only consist of the backend data being sent, my group mates who worked on the front end has their own repo.
+- This is a modified copy of atSign's own README.md, it contained a lot of relevant information so it is reused.
+- Also disclaimer this repo only consist of the backend data being sent, my group mates who worked on the front end has their own repo.
 
 # Table of Contents
 
@@ -30,9 +30,9 @@ Even before installing Micropython you can start wiring the pico, personally I c
 <img src="https://cdn.discordapp.com/attachments/892140741076353034/1036014548337049710/unknown.png" />
 
 Our project uses two sensors, but just one sensor would work fine as well. on the sensors you can see letters next to the connectors, to which you would connect using the jumper cables.
-	G is the ground connection(38 is what we used)
-	V is the power connection(36)
-	S is the data connection(GP27 and GP26)
+	- G is the ground connection(38 is what we used)
+	- V is the power connection(36)
+	- S is the data connection(GP27 and GP26)
 
 ## 1. Getting the right Micropython Firmware for your Pico W
 
