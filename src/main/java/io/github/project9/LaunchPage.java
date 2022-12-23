@@ -28,11 +28,11 @@ public class LaunchPage implements ActionListener{
 	/** Constructor to setup the UI components */
 	LaunchPage(){
 		// pushing images for User Interface
-		ImageIcon imagemotion = new ImageIcon((new ImageIcon("motionsensor.jpg").getImage().getScaledInstance(250, 250, Image.SCALE_DEFAULT)) );
-		ImageIcon imageproximity = new ImageIcon((new ImageIcon("proximitysensor.jpg").getImage().getScaledInstance(250, 250, Image.SCALE_DEFAULT)) );
-		ImageIcon clickproximity = new ImageIcon((new ImageIcon("click_pd.jpg").getImage().getScaledInstance(270,250, Image.SCALE_DEFAULT)) );
-		ImageIcon clickmotion = new ImageIcon((new ImageIcon("click_md1.jpg").getImage().getScaledInstance(250, 250, Image.SCALE_AREA_AVERAGING)) );
-		ImageIcon imageatsign = new ImageIcon("atsignpic.png");
+		ImageIcon imagemotion = new ImageIcon((new ImageIcon("images//motionsensor.jpg").getImage().getScaledInstance(250, 250, Image.SCALE_DEFAULT)) );
+		ImageIcon imageproximity = new ImageIcon((new ImageIcon("images//proximitysensor.jpg").getImage().getScaledInstance(250, 250, Image.SCALE_DEFAULT)) );
+		ImageIcon clickproximity = new ImageIcon((new ImageIcon("images//click_pd.jpg").getImage().getScaledInstance(270,250, Image.SCALE_DEFAULT)) );
+		ImageIcon clickmotion = new ImageIcon((new ImageIcon("images//click_md1.jpg").getImage().getScaledInstance(250, 250, Image.SCALE_AREA_AVERAGING)) );
+		ImageIcon imageatsign = new ImageIcon("images//atsignpic.png");
 		
 		Border border=BorderFactory.createLineBorder(Color.white,1); //set border 
 
