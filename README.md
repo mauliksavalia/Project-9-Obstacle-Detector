@@ -10,7 +10,7 @@ For UMass 2022 IoT Projects.
 - [Table of Contents](#table-of-contents)
 - [Prerequisites](#prerequisites)
 - [Instructions](#instructions)
-  * [0. Introduction](#0-introduction)
+  * [0. Wiring your Pico](#0-Wiring-your-Pico)
   * [1. Getting the right Micropython Firmware for your Pico W](#1-getting-the-right-micropython-firmware-for-your-pico-w)
   * [2. Getting Started - Blinking the LED](#2-getting-started---blinking-the-led)
   * [3. Git Cloning](#3-git-cloning)
