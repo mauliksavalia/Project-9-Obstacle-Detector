@@ -2,6 +2,9 @@
 
 #Disclaimer: I uploaded receiver side of project where we made application in JAVA as I worked on frontend part.
 
+##JAVA GUI
+GUI (Graphical User Interface) in Java is an easy-to-use visual experience builder for Java applications. It is mainly made of graphical components like buttons, labels, windows, etc. through which the user can interact with an application. GUI plays an important role to build easy interfaces for Java applications.
+
 ## Requirements
 There are two requirements for developing with at_java on your machine.
 
@@ -18,6 +21,7 @@ Each atSign generates a unique set of private and public cryptographic keys. The
 
 The fully qualified atSigns and the information in their secondary servers can be interacted with using verbs provided by the atProtocol.
 
+If you’re making a Java app, you can either fork the at_java repository and run mvn install to create a JAR to use a dependency, or create a maven project and use our dependency through the pom.xml.
 
 
 
