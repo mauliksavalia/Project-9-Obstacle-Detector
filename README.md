@@ -1,8 +1,8 @@
 # Project 9 : Obstcle Detector system using Motion and proximity Sensor
 
-#Disclaimer: I uploaded receiver side of project where we made application in JAVA as I worked on frontend part.
+# Disclaimer I uploaded receiver side of project where we made application in JAVA as I worked on frontend part.
 
-##JAVA GUI
+## JAVA GUI
 GUI (Graphical User Interface) in Java is an easy-to-use visual experience builder for Java applications. It is mainly made of graphical components like buttons, labels, windows, etc. through which the user can interact with an application. GUI plays an important role to build easy interfaces for Java applications.
 
 ## Requirements
